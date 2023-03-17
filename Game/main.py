@@ -1,6 +1,6 @@
 import random
 
-def game(comp , you,c,y,countyou,countcomp,countyou1,countcomp1 ):
+def game(comp , you,c,y,countyou1,countcomp1 ):
     c=0
     y=0
     if comp == 3:
